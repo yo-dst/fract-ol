@@ -1,6 +1,6 @@
 # fractol
 
-🌈 A program in C to visualise fractals (Mandelbrot, Julia set, Burning ship)<br/>
+🌈 A program in C to visualize fractals (Mandelbrot, Julia set, Burning ship)<br/>
 
 <pre>
 Fractals availables:
